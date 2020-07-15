@@ -15,15 +15,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Hey!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VPN-xY-0Zb">
-                                <rect key="frame" x="174" y="213" width="67" height="44"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <pageControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="QvK-ZR-35X">
-                                <rect key="frame" x="157" y="588" width="80" height="37"/>
+                                <rect key="frame" x="163" y="756" width="80" height="37"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="pageIndicatorTintColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <color key="currentPageIndicatorTintColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
@@ -31,27 +24,23 @@
                                     <segue destination="Vt7-Be-LLn" kind="showDetail" id="6e7-hc-vaE"/>
                                 </connections>
                             </pageControl>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image_from_ios-2" translatesAutoresizingMaskIntoConstraints="NO" id="q6r-GD-LUN">
+                                <rect key="frame" x="38" y="169" width="339" height="334"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="YUz-2v-XlE">
-                                <rect key="frame" x="35" y="383" width="337" height="164"/>
+                                <rect key="frame" x="35" y="535" width="337" height="164"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text" base64-UTF8="YES">
-V2UgYXJlIGhlcmUgdG8gYW5zd2VyIGFueSANYnVybmluZyBxdWVzdGlvbnMgeW91IG1heSBoYXZlLCBn
-aXZlIOKAqGFkdmljZSBvbiBhIHZhcmlldHkgb2YgdG9waWNzIGFuZCAR4oCocHJvdmlkZSBhIGNvbW11
-bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMh4oCoandxbuKAqA
+V2UncmUgaGVyZSB0byBhbnN3ZXIgYW55IA1idXJuaW5nIHF1ZXN0aW9ucywgZ2l2ZSBhZHZpY2UsIGFu
+ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
 </string>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Welcome to Growing Up Girl." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="uBJ-zN-T7Q">
-                                <rect key="frame" x="74" y="317" width="258" height="58"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
-                                <nil key="textColor"/>
+                                <color key="textColor" red="0.92830300330000004" green="0.52415925259999996" blue="0.65354758499999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor" cocoaTouchSystemColor="whiteColor"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                 </viewController>
@@ -145,4 +134,7 @@ bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMh4oCoandxbuKAqA
             <point key="canvasLocation" x="1470" y="117"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="image_from_ios-2" width="1080" height="1080"/>
+    </resources>
 </document>
