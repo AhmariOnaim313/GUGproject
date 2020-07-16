@@ -14,6 +14,7 @@
 		182382E224BCE18D002283BA /* GUGproject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 182382E024BCE18D002283BA /* GUGproject.xcdatamodeld */; };
 		182382E424BCE18E002283BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 182382E324BCE18E002283BA /* Assets.xcassets */; };
 		182382E724BCE18E002283BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 182382E524BCE18E002283BA /* LaunchScreen.storyboard */; };
+		1823830E24C05B76002283BA /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1823830D24C05B76002283BA /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		182382E624BCE18E002283BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		182382E824BCE18E002283BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		182382EE24BCE376002283BA /* GUGproject.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GUGproject.entitlements; sourceTree = "<group>"; };
+		1823830D24C05B76002283BA /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				182382D724BCE18D002283BA /* AppDelegate.swift */,
 				182382D924BCE18D002283BA /* SceneDelegate.swift */,
 				182382DB24BCE18D002283BA /* ViewController.swift */,
+				1823830D24C05B76002283BA /* SecondViewController.swift */,
 				182382DD24BCE18D002283BA /* Main.storyboard */,
 				182382E324BCE18E002283BA /* Assets.xcassets */,
 				182382E524BCE18E002283BA /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 				182382DC24BCE18D002283BA /* ViewController.swift in Sources */,
 				182382E224BCE18D002283BA /* GUGproject.xcdatamodeld in Sources */,
 				182382D824BCE18D002283BA /* AppDelegate.swift in Sources */,
+				1823830E24C05B76002283BA /* SecondViewController.swift in Sources */,
 				182382DA24BCE18D002283BA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
