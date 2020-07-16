@@ -242,7 +242,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
             </objects>
             <point key="canvasLocation" x="4954" y="812"/>
         </scene>
-        <!--Education-->
+        <!--About us-->
         <scene sceneID="OGh-xq-AfQ">
             <objects>
                 <viewController id="ka5-UX-dgv" sceneMemberID="viewController">
@@ -253,7 +253,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="tintColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
                         <viewLayoutGuide key="safeArea" id="EFA-OP-EMN"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Education" image="smiley" catalog="system" id="pke-Ep-9Kz"/>
+                    <tabBarItem key="tabBarItem" title="About us" image="smiley" catalog="system" id="pke-Ep-9Kz"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NYf-f6-zpW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
