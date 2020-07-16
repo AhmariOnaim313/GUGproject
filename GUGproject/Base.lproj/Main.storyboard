@@ -127,6 +127,16 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                     <view key="view" contentMode="scaleToFill" id="7Pk-ES-eK9">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ofe-52-fPd">
+                                <rect key="frame" x="35" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="58P-mP-R6k"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="0.75106567140000002" green="0.513051331" blue="0.59407377240000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="sOA-P1-8hB"/>
                     </view>
@@ -169,6 +179,16 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                     <view key="view" contentMode="scaleToFill" id="SNv-aW-QI6">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZZB-7a-7Kk">
+                                <rect key="frame" x="20" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="38A-mu-5di"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="0.96918731930000002" green="0.68573516609999996" blue="0.61366206410000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="clt-hL-WWQ"/>
                     </view>
@@ -185,6 +205,16 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                     <view key="view" contentMode="scaleToFill" id="LGT-f5-EKI">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="rzM-fv-Vd9">
+                                <rect key="frame" x="26" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="GW2-uL-rxJ"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="0.96212512250000004" green="0.89035648109999999" blue="0.68619567159999995" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="2v3-yr-gna"/>
                     </view>
@@ -201,6 +231,16 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                     <view key="view" contentMode="scaleToFill" id="gzD-tp-GIr">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Nzx-mU-VRO">
+                                <rect key="frame" x="26" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="li1-ci-1M1"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="0.95182257889999999" green="0.92963945869999998" blue="0.75941121580000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="uMg-A2-vZv"/>
                     </view>
@@ -217,6 +257,16 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                     <view key="view" contentMode="scaleToFill" id="cyq-gH-Pze">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZGa-Nr-qZQ">
+                                <rect key="frame" x="26" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="EwT-Y1-K6c"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="0.69059139489999999" green="0.81594192980000002" blue="0.8203415275" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="si4-mY-Bvf"/>
                     </view>
@@ -233,6 +283,16 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                     <view key="view" contentMode="scaleToFill" id="Tr4-JZ-vx1">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1XI-Mk-072">
+                                <rect key="frame" x="26" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="4BF-gM-Em0"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="0.75112503770000005" green="0.5169997811" blue="0.58983790869999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="JJN-n5-IDy"/>
                     </view>
@@ -249,6 +309,16 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                     <view key="view" contentMode="scaleToFill" id="Iw1-je-blM">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ROf-cQ-E7P">
+                                <rect key="frame" x="26" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="VAT-37-c0W"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="0.96541577580000004" green="0.68968534469999998" blue="0.61350715160000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <color key="tintColor" systemColor="labelColor" cocoaTouchSystemColor="darkTextColor"/>
                         <viewLayoutGuide key="safeArea" id="EFA-OP-EMN"/>
@@ -266,6 +336,16 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                     <view key="view" contentMode="scaleToFill" id="GmX-S8-D0m">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="OmV-G7-dit">
+                                <rect key="frame" x="26" y="20" width="34" height="30"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <state key="normal" title="Back"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="8Pz-kk-q6b"/>
+                                </connections>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="0.68681979179999997" green="0.81594759230000002" blue="0.8203588128" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="eV5-p4-QMd"/>
                     </view>
@@ -276,6 +356,9 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
             <point key="canvasLocation" x="970" y="812"/>
         </scene>
     </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="VAT-37-c0W"/>
+    </inferredMetricsTieBreakers>
     <resources>
         <image name="42145FEE-DC8F-4291-90A4-AA3CF4DE1370" width="1080" height="1920"/>
         <image name="book.circle" catalog="system" width="128" height="121"/>
