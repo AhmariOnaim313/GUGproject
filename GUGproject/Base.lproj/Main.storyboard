@@ -127,7 +127,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="sOA-P1-8hB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Women's Health" id="zAX-I5-uKG"/>
+                    <tabBarItem key="tabBarItem" title="Women's Health" image="heart.fill" catalog="system" id="zAX-I5-uKG"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0dT-QY-hk9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -166,7 +166,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="backgroundColor" systemColor="systemYellowColor" red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="clt-hL-WWQ"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Mental Health" id="YTB-um-kVN"/>
+                    <tabBarItem key="tabBarItem" title="Mental Health" image="bubble.left.fill" catalog="system" id="YTB-um-kVN"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mC0-2k-l3E" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -182,7 +182,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="backgroundColor" systemColor="systemGreenColor" red="0.20392156859999999" green="0.78039215689999997" blue="0.34901960780000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="2v3-yr-gna"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Beauty" id="RBr-kv-8Cg"/>
+                    <tabBarItem key="tabBarItem" title="Beauty" image="eye" catalog="system" id="RBr-kv-8Cg"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hEQ-r2-Fjw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -198,13 +198,13 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="backgroundColor" systemColor="systemPinkColor" red="1" green="0.1764705882" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="uMg-A2-vZv"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Education" id="Xqx-Y4-KsT"/>
+                    <tabBarItem key="tabBarItem" title="Education" image="book.circle" catalog="system" id="Xqx-Y4-KsT"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yNe-06-R9a" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="3567" y="661"/>
         </scene>
-        <!--Discrimnation-->
+        <!--Discrimination-->
         <scene sceneID="ZPT-fH-DZ7">
             <objects>
                 <viewController id="dYH-qN-ZEe" sceneMemberID="viewController">
@@ -214,7 +214,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="backgroundColor" systemColor="systemIndigoColor" red="0.34509803919999998" green="0.33725490200000002" blue="0.83921568629999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="si4-mY-Bvf"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Discrimnation" id="Xh3-7C-S7G"/>
+                    <tabBarItem key="tabBarItem" title="Discrimination" image="person.3.fill" catalog="system" id="Xh3-7C-S7G"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eLm-y5-Thr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -230,7 +230,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="backgroundColor" systemColor="systemGrayColor" red="0.5568627451" green="0.5568627451" blue="0.57647058819999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="JJN-n5-IDy"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Resources" id="08e-wt-0ab"/>
+                    <tabBarItem key="tabBarItem" title="Resources" image="pencil" catalog="system" id="08e-wt-0ab"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eEv-lQ-FMQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
@@ -239,6 +239,12 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
     </scenes>
     <resources>
         <image name="42145FEE-DC8F-4291-90A4-AA3CF4DE1370" width="1080" height="1920"/>
+        <image name="book.circle" catalog="system" width="128" height="121"/>
+        <image name="bubble.left.fill" catalog="system" width="128" height="110"/>
+        <image name="eye" catalog="system" width="128" height="81"/>
+        <image name="heart.fill" catalog="system" width="128" height="109"/>
         <image name="image_from_ios-2" width="1080" height="1080"/>
+        <image name="pencil" catalog="system" width="128" height="113"/>
+        <image name="person.3.fill" catalog="system" width="128" height="61"/>
     </resources>
 </document>
