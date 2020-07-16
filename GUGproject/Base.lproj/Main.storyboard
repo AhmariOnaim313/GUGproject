@@ -21,7 +21,7 @@
                                 <color key="pageIndicatorTintColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <color key="currentPageIndicatorTintColor" red="0.92830300330000004" green="0.52415925259999996" blue="0.65354758499999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
-                                    <segue destination="Vt7-Be-LLn" kind="showDetail" id="6e7-hc-vaE"/>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="Gr1-WY-PS8"/>
                                 </connections>
                             </pageControl>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image_from_ios-2" translatesAutoresizingMaskIntoConstraints="NO" id="q6r-GD-LUN">
@@ -53,7 +53,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
             <objects>
                 <viewController id="Vt7-Be-LLn" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Bz7-A2-4Dc">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <pageControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" currentPage="1" translatesAutoresizingMaskIntoConstraints="NO" id="XXX-Ss-Cef">
@@ -61,6 +61,9 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="pageIndicatorTintColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <color key="currentPageIndicatorTintColor" systemColor="systemBlueColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <connections>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="0lQ-Vl-URL"/>
+                                </connections>
                             </pageControl>
                             <textField opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="cj0-CD-Yqf">
                                 <rect key="frame" x="145" y="306" width="97" height="34"/>
@@ -313,7 +316,9 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ROf-cQ-E7P">
                                 <rect key="frame" x="26" y="20" width="34" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="Back"/>
+                                <state key="normal" title="Back">
+                                    <color key="titleColor" red="0.1145522073" green="0.4815447927" blue="0.98508054020000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
                                 <connections>
                                     <segue destination="pnc-do-Y1n" kind="show" id="VAT-37-c0W"/>
                                 </connections>
@@ -357,7 +362,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="VAT-37-c0W"/>
+        <segue reference="8Pz-kk-q6b"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="42145FEE-DC8F-4291-90A4-AA3CF4DE1370" width="1080" height="1920"/>
