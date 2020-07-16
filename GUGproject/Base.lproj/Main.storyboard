@@ -120,7 +120,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
             </objects>
             <point key="canvasLocation" x="766.66666666666674" y="116.51785714285714"/>
         </scene>
-        <!--Women's Health-->
+        <!--   Women's Health-->
         <scene sceneID="Uwk-3f-vxz">
             <objects>
                 <viewController id="tem-10-iDc" sceneMemberID="viewController">
@@ -130,11 +130,11 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="sOA-P1-8hB"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Women's Health" image="heart.fill" catalog="system" id="zAX-I5-uKG"/>
+                    <tabBarItem key="tabBarItem" title="   Women's Health" image="heart.fill" catalog="system" id="zAX-I5-uKG"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="0dT-QY-hk9" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1478" y="658"/>
+            <point key="canvasLocation" x="1581" y="812"/>
         </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="UHa-cA-ITS">
@@ -155,6 +155,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <segue destination="dYH-qN-ZEe" kind="relationship" relationship="viewControllers" id="e3V-Sl-wyn"/>
                         <segue destination="38u-AJ-zvm" kind="relationship" relationship="viewControllers" id="Dkh-h3-tWw"/>
                         <segue destination="ka5-UX-dgv" kind="relationship" relationship="viewControllers" id="SBD-8a-rL3"/>
+                        <segue destination="JGd-FI-HMA" kind="relationship" relationship="viewControllers" id="XBn-H6-GLz"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="9vX-ob-yYv" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -175,7 +176,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="mC0-2k-l3E" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2167" y="662"/>
+            <point key="canvasLocation" x="2199" y="812"/>
         </scene>
         <!--Beauty-->
         <scene sceneID="cJQ-Ea-G1m">
@@ -191,7 +192,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hEQ-r2-Fjw" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2845" y="661"/>
+            <point key="canvasLocation" x="2858" y="812"/>
         </scene>
         <!--Education-->
         <scene sceneID="T9T-Hf-Jng">
@@ -207,7 +208,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="yNe-06-R9a" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="3554" y="662"/>
+            <point key="canvasLocation" x="3551" y="812"/>
         </scene>
         <!--Discrimination-->
         <scene sceneID="ZPT-fH-DZ7">
@@ -223,7 +224,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eLm-y5-Thr" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4248" y="662"/>
+            <point key="canvasLocation" x="4254" y="812"/>
         </scene>
         <!--Resources-->
         <scene sceneID="giE-Y5-sRr">
@@ -239,7 +240,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eEv-lQ-FMQ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="4930" y="662"/>
+            <point key="canvasLocation" x="4954" y="812"/>
         </scene>
         <!--Education-->
         <scene sceneID="OGh-xq-AfQ">
@@ -256,7 +257,23 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="NYf-f6-zpW" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="5614" y="671"/>
+            <point key="canvasLocation" x="5636" y="812"/>
+        </scene>
+        <!-- Home-->
+        <scene sceneID="fzj-hW-3JP">
+            <objects>
+                <viewController id="JGd-FI-HMA" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="GmX-S8-D0m">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" systemColor="systemTealColor" red="0.35294117650000001" green="0.7843137255" blue="0.98039215690000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <viewLayoutGuide key="safeArea" id="eV5-p4-QMd"/>
+                    </view>
+                    <tabBarItem key="tabBarItem" title=" Home" image="house.fill" catalog="system" id="Awu-tQ-fom"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="u3R-kl-joK" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="970" y="812"/>
         </scene>
     </scenes>
     <resources>
@@ -265,6 +282,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
         <image name="bubble.left.fill" catalog="system" width="128" height="110"/>
         <image name="eye" catalog="system" width="128" height="81"/>
         <image name="heart.fill" catalog="system" width="128" height="109"/>
+        <image name="house.fill" catalog="system" width="128" height="106"/>
         <image name="image_from_ios-2" width="1080" height="1080"/>
         <image name="pencil" catalog="system" width="128" height="113"/>
         <image name="person.3.fill" catalog="system" width="128" height="61"/>
