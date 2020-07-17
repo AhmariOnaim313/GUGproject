@@ -21,7 +21,7 @@
                                 <color key="pageIndicatorTintColor" cocoaTouchSystemColor="darkTextColor"/>
                                 <color key="currentPageIndicatorTintColor" red="0.92830300330000004" green="0.52415925259999996" blue="0.65354758499999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <connections>
-                                    <segue destination="pnc-do-Y1n" kind="show" id="Gr1-WY-PS8"/>
+                                    <segue destination="Vt7-Be-LLn" kind="show" id="5ed-xr-dvg"/>
                                 </connections>
                             </pageControl>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image_from_ios-2" translatesAutoresizingMaskIntoConstraints="NO" id="q6r-GD-LUN">
@@ -53,7 +53,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
             <objects>
                 <viewController id="Vt7-Be-LLn" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Bz7-A2-4Dc">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <pageControl opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" currentPage="1" translatesAutoresizingMaskIntoConstraints="NO" id="XXX-Ss-Cef">
@@ -118,6 +118,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <viewLayoutGuide key="safeArea" id="C0H-6B-hna"/>
                     </view>
+                    <navigationItem key="navigationItem" id="e8l-we-yFh"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="WDH-5N-7zN" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
