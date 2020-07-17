@@ -105,7 +105,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="Let's go!"/>
                                 <connections>
-                                    <segue destination="JGd-FI-HMA" kind="show" id="37W-nL-hpt"/>
+                                    <segue destination="pnc-do-Y1n" kind="show" id="ZT4-sS-H86"/>
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="42145FEE-DC8F-4291-90A4-AA3CF4DE1370" translatesAutoresizingMaskIntoConstraints="NO" id="W1i-w4-EHY">
@@ -179,7 +179,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
             <objects>
                 <viewController id="cp3-08-nTR" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="SNv-aW-QI6">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZZB-7a-7Kk">
@@ -375,9 +375,7 @@ ZCAR4oCocHJvdmlkZSBhIGNvbW11bml0eSBmb3IgZ2lybHMgb2YgYWxsIGFnZXMhA
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Vbi-Ae-5sL"/>
-        <segue reference="XBn-H6-GLz"/>
-        <segue reference="38A-mu-5di"/>
+        <segue reference="ZT4-sS-H86"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="42145FEE-DC8F-4291-90A4-AA3CF4DE1370" width="1080" height="1920"/>
